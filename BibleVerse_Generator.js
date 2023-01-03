@@ -34,6 +34,11 @@ let quotes =
 
  "Revelation 21:4 - He will wipe away every tear from their eyes, and death shall be no more, neither shall there be mourning, nor crying, nor pain anymore, for the former things have passed away. And He who was seated on the throne said, Behold, I am making all things new.",
 
+ "Acts 3:19 (ESV) - Repent therefore, and turn back, that your sins may be blotted out",
+ 
+ "Mathhew 4:17 (ESV) - From that time Jesus began to preach, saying, \"Repent, for the kingdom of heaven is at hand".",
+ 
+ "Matthew 3:8 (ESV) - Bear fruit in keeping with repentance.",
 ];
 
 btn.addEventListener('click', function(){
