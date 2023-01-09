@@ -4,9 +4,9 @@ let quotes =
 
 [
 
- "John 16:33 - In the world you will have tribulation. But take heart; I have overcome the world.",
+ "John 16:33 - In the world you will have tribulation. \n But take heart; I have overcome the world.",
   
- "Isaiah 41:10 (NIV) - So do not fear, for I am with you; do not be dismayed, for I am your God. I will strengthen you and help you; I will uphold you with my righteous right hand.",
+ "Isaiah 41:10 (NIV) - So do not fear, for I am with you; do not be dismayed, \n for I am your God. I will strengthen you and help you; I will uphold you with my righteous right hand.",
   
  "Philippians 4:6–7 (NIV) Do not be anxious about anything, but in every situation, by prayer and petition, with thanksgiving, present your requests to God. And the peace of God, which transcends all understanding, will guard your hearts and your minds in Christ Jesus.",
   
@@ -36,7 +36,7 @@ let quotes =
 
  "Acts 3:19 (ESV) - Repent therefore, and turn back, that your sins may be blotted out",
  
- "Mathhew 4:17 (ESV) - From that time Jesus began to preach, saying, \"Repent, for the kingdom of heaven is at hand".",
+ "Mathhew 4:17 (ESV) - From that time Jesus began to preach, saying, \"Repent, for the kingdom of heaven is at hand",
  
  "Matthew 3:8 (ESV) - Bear fruit in keeping with repentance.",
 ];
