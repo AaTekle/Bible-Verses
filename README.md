@@ -3,4 +3,4 @@ Bible Verse Generator, that allows you to generate inspirational Biblical text f
 
 The typing animation credit goes to Marko Denic, took some inspiration from his animation which was on Codepen.
 
-Website Link : https://bible-verse-generator.aarontekle.repl.co/
+**Website Link**: https://bible-verse-generator.aarontekle.repl.co/
